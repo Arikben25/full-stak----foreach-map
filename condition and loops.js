@@ -58,8 +58,7 @@ while(stert<= end){
 let my_numbers = 1234
 let my_stringi = ""
 while(my_numbers > 0){
-    numi = my_numbers % 10;
-    my_stringi += numi;
+    my_stringi += my_numbers % 10;
     my_numbers = Math.floor(my_numbers / 10)
 }
-    console.log(numi)
+    console.log(my_stringi)
