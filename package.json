@@ -1,0 +1,23 @@
+{
+  "name": "javas",
+  "version": "1.0.0",
+  "main": "closur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arikben25/full-stak----foreach-map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arikben25/full-stak----foreach-map/issues"
+  },
+  "homepage": "https://github.com/Arikben25/full-stak----foreach-map#readme",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
