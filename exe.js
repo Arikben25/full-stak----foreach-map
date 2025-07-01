@@ -48,5 +48,3 @@ class Builder{
         console.log(this.text)
     }
 }
-const b = new Builder
-b.write("yes").uper().print()
